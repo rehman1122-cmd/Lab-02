@@ -1,2 +1,14 @@
-Console.WriteLine("Abdul Rehman");
+In the Following I write my FSC , 1st semester andc 2nd semester Subjects.
+Console.WriteLine("My name is Abdul Rehman");
 Console.WriteLine("24-ST-041");
+FSC Subjects
+Console.WriteLine("English");
+Console.WriteLine("Urdu");
+Console.WriteLine("Math");
+Console.WriteLine("Islamiat");
+Console.WriteLine("Tarjuma Tul Quran");
+Console.WriteLine("Computer");
+Console.WriteLine("Statistics");
+1st Semester
+Console.WriteLine("Computer Programming");
+Console.WriteLine("ITS");
